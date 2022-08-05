@@ -1,6 +1,6 @@
 --Its just a UI and Autoplayer so just ingore it
 pcall(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MrbaconXD/LocalKick/main/GUI.lua"), true)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrbaconXD/GUI/main/GUI.lua"), true)()
 end)
 
 -- Just message
