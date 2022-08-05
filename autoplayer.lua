@@ -12,3 +12,4 @@ Font = Enum.Font.Cartoon;
 Color = b.Color;
 FontSize = Enum.FontSize.Size96;
 })
+-- Dont worry its will always work on all executor and not bug or error
