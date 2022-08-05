@@ -6,4 +6,4 @@ Access To Note And Stuff
 pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MrbaconXD/GUI/main/ExecGUI.lua"), true)()
 end)
-``
+```
