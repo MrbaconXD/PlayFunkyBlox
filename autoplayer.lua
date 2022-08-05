@@ -7,7 +7,7 @@ end)
 wait(3)
 local b = BrickColor.new("Red")
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
-Text = "[AutoPlater]: Success Access";
+Text = "[AutoPlayer]: Success Access";
 Font = Enum.Font.Cartoon;
 Color = b.Color;
 FontSize = Enum.FontSize.Size96;
