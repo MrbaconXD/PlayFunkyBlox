@@ -8,3 +8,5 @@ pcall(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MrbaconXD/GUI/main/ExecGUI.lua"), true)()
 end)
 ```
+
+patched
